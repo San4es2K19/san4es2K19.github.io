@@ -1,0 +1,44 @@
+.zagalovok{
+    color: blue;
+    text-align: center;
+    font-style: oblique;
+}
+.name{
+    color: blueviolet;
+    font-style: oblique;
+}
+.email{
+    color: brown;
+    font-style: oblique;
+}
+.password{
+    color: deeppink;
+    font-style: oblique;
+}
+.age{
+    color: green;
+    font-style: oblique;
+}
+.user{
+    color: fuchsia;
+    font-style: oblique;
+}
+.admin{
+    color: maroon;
+    font-style: oblique;
+
+}
+.program{
+    color: blueviolet;
+    font-style: oblique;
+    width: 1500;
+}
+.kniga{
+    color: darkgreen;
+    font-style: oblique;
+    width: 1500;
+}
+main{
+    color: brown;
+    width: 1500;
+}
